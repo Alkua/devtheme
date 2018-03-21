@@ -1,26 +1,26 @@
 {
-  "name": "sgf",
+  "name": "First Site",
   "version": "1.0.0",
-  "description": "Space Games Federation Theme",
+  "description": "Learning to Build WordPress Sites",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/powersimple/spacegamesfederation.git"
+    "url": "git+https://github.com/Alkua/devtheme.git"
   },
   "keywords": [
-    "Space",
-    "Games",
-    "Federation"
+    "First",
+    "Site",
+    "Wordpress"
   ],
   "author": "Ben Erwin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/powersimple/spacegamesfederation/issues"
+    "url": "https://github.com/Alkua/devtheme/issues"
   },
-  "homepage": "https://github.com/powersimple/spacegamesfederation#readme",
+  "homepage": "https://github.com/Alkua/devtheme#readme",
   "devDependencies": {
     "browser-sync": "^2.23.5",
     "del": "^3.0.0",
